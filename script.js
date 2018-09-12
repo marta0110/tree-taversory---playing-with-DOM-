@@ -1,0 +1,13 @@
+console.dir(document);
+console.log("element: " + document.charset);
+console.log("element: lang:" + document.all[0].lang);
+console.log("element: " + document.all[1].nodeName);
+console.log("element: " + document.all[2].nodeName);
+console.log("element: charset:" + document.charset);
+console.log("element: " + document.all[3].nodeName);
+console.log("element: " + document.all[4].nodeName);
+console.log("element: " + document.all[5].nodeName);
+console.log("element: id = " + document.all[5].id);
+console.log("element: " + document.all[6].nodeName);
+console.log("element: " + document.all[7].nodeName);
+console.log(document.documentElement);
